@@ -1,0 +1,1444 @@
+{
+ "$schema": "kenseikai-score/2.0",
+ "metadata": {
+  "title": "記号カタログ（検証用）",
+  "tuning": "honchoshi",
+  "time_signature": "2/4",
+  "tempo": 80,
+  "source": "デザインキャンバス MEASURES + KAETE"
+ },
+ "settings": {
+  "numFont": "Shippori Mincho B1",
+  "lyrFont": "Yuji Syuku",
+  "lyricRatio": 3.5,
+  "page": {
+   "size": "A4",
+   "columns": "auto"
+  }
+ },
+ "parts": [
+  {
+   "name": "本手",
+   "role": "honte",
+   "measures": [
+    {
+     "id": 1,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3,
+       "lyric": {
+        "text": "仕",
+        "ruby": "し",
+        "role": "tate",
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 2,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        4
+       ],
+       "lyric": {
+        "text": "ご",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "technique": "sukui",
+       "lyric": {
+        "text": "と",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "rest",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        2
+       ],
+       "octave": 1
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "string": 2,
+       "lyric": {
+        "text": "あ",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "lyric": {
+        "text": "さ",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        6
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3,
+        7
+       ],
+       "lyric": {
+        "text": "よ",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "rest",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3,
+        7
+       ],
+       "lyric": {
+        "text": "る",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "rest",
+       "beat": 2.5
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ],
+     "lyrics": [
+      {
+       "text": "た",
+       "ruby": "",
+       "role": null,
+       "breath": false,
+       "at": {
+        "y": 34
+       }
+      }
+     ]
+    },
+    {
+     "id": 10,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ],
+     "lyrics": [
+      {
+       "text": "び",
+       "ruby": "",
+       "role": null,
+       "breath": false,
+       "at": {
+        "beat": 1.25
+       }
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "lyric": {
+        "text": "の",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        3
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        1
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ],
+       "technique": "sukui"
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": -1,
+       "lyric": {
+        "text": "こ",
+        "ruby": "",
+        "role": "rengin",
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "こ",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "string": 2,
+       "lyric": {
+        "text": "ろ",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 15,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ],
+     "lyrics": [
+      {
+       "text": "も",
+       "ruby": "",
+       "role": null,
+       "breath": false,
+       "at": {
+        "beat": 1.75
+       }
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3,
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3,
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "い",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        2
+       ],
+       "octave": 1
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "lyric": {
+        "text": "さ",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ],
+       "technique": "hajiki"
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "lyric": {
+        "text": "ま",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ],
+       "technique": "sukui"
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "lyric": {
+        "text": "し",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "technique": "sukui",
+       "lyric": {
+        "text": "や",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "rest",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3,
+        7
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        2
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "ひ",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ],
+       "octave": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "と",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "position": 2
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "technique": "sukui",
+       "position": 2,
+       "lyric": {
+        "text": "り",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 28,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "octave": -1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "笑",
+        "ruby": "わら",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "lyric": {
+        "text": "し",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "て",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ],
+       "technique": "sukui"
+      }
+     ]
+    },
+    {
+     "id": 32,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "position": 1
+      },
+      {
+       "type": "hold",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "lyric": {
+        "text": "く",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "rest",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 34,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "technique": "hajiki",
+       "lyric": {
+        "text": "る",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "octave": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3,
+        7
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "annotation": "(合)"
+      }
+     ],
+     "meter": "1/4"
+    },
+    {
+     "id": 38,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "gap",
+       "beat": 2
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        2
+       ],
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        1
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ],
+       "accidental": "flat"
+      }
+     ]
+    },
+    {
+     "id": 40,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "rest",
+       "beat": 1.25
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 41,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 2
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        2
+       ],
+       "octave": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ],
+       "octave": 1
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 3,
+       "degrees": [
+        6
+       ]
+      }
+     ],
+     "meter": "3/4"
+    },
+    {
+     "id": 43,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        2
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ]
+      }
+     ],
+     "meter": "3/8"
+    }
+   ]
+  },
+  {
+   "name": "替手",
+   "role": "kaete",
+   "measures": [
+    {
+     "id": 43,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "octave": -1
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        2
+       ]
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        2
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        1
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        7
+       ],
+       "octave": -1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ],
+       "technique": "sukui"
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "rest",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        2
+       ],
+       "octave": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

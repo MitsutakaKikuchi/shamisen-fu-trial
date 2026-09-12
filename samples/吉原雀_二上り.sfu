@@ -1,0 +1,1621 @@
+{
+ "$schema": "kenseikai-score/2.0",
+ "metadata": {
+  "title": "新しい曲",
+  "time_signature": "2/4",
+  "tempo": 180
+ },
+ "settings": {
+  "numFont": "Shippori Mincho B1",
+  "lyrFont": "Yuji Syuku",
+  "lyricRatio": 3.5,
+  "page": {
+   "size": "A4",
+   "columns": "auto",
+   "title": ""
+  }
+ },
+ "parts": [
+  {
+   "name": "本手",
+   "role": "honte",
+   "measures": [
+    {
+     "id": 1,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "dur": 0.5,
+       "degrees": [
+        4,
+        4
+       ],
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ]
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "technique": "hajiki",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        4
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "technique": "sukui",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "hajiki",
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 2
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 3
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "technique": "hajiki",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        4
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "technique": "sukui",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "hajiki",
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 4
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 5
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "string": 2,
+       "position": 1,
+       "octave": 1
+      },
+      {
+       "type": "rest",
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 6
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "string": 2,
+       "position": 1,
+       "octave": 1
+      },
+      {
+       "type": "rest",
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 7
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "string": 2,
+       "position": 1,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 1,
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 8
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "octave": 1,
+       "string": 2,
+       "position": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1
+      }
+     ],
+     "id": 9
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 10
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 11
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 12
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "dur": 1,
+       "degrees": [
+        4
+       ],
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "dur": 1,
+       "degrees": [
+        4
+       ],
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 13
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1
+      }
+     ],
+     "id": 14
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "dur": 1,
+       "degrees": [
+        5
+       ],
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "dur": 1,
+       "degrees": [
+        5
+       ],
+       "octave": 1
+      }
+     ],
+     "id": 15
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1
+      }
+     ],
+     "id": 16
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 17
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1,
+       "technique": "sukui"
+      }
+     ],
+     "id": 18
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "octave": 1
+      }
+     ],
+     "id": 19
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "accidental": "sharp",
+       "octave": 1
+      }
+     ],
+     "id": 20
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "octave": 1
+      }
+     ],
+     "id": 21
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "accidental": "sharp",
+       "position": 3
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1,
+       "technique": "hajiki"
+      }
+     ],
+     "id": 22
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1,
+       "dur": 1,
+       "position": 2,
+       "string": 2,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1,
+       "position": 3
+      }
+     ],
+     "id": 23
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "open": true
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2,
+       "dur": 0.5
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 24
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "open": true
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "string": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 25
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 1
+      }
+     ],
+     "id": 26
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "position": 3,
+       "string": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1.5,
+       "dur": 0.5
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "position": 3,
+       "string": 1,
+       "slur": true
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 27
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "position": 3,
+       "string": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1.5,
+       "dur": 0.5
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "position": 3,
+       "string": 1,
+       "slur": true
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 28
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "position": 3,
+       "string": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1.5,
+       "dur": 0.5
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "position": 3,
+       "string": 1,
+       "slur": true
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 29
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "dur": 1,
+       "degrees": [
+        4
+       ],
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "dur": 1,
+       "degrees": [
+        6
+       ]
+      }
+     ],
+     "id": 30
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "position": 2,
+       "string": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "technique": "sukui"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": -1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        6
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 31
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 1,
+       "dur": 1,
+       "string": 2,
+       "position": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 2,
+       "dur": 1,
+       "string": 2,
+       "position": 2,
+       "octave": 1
+      }
+     ],
+     "id": 32
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1
+      }
+     ],
+     "id": 33
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1.5,
+       "dur": 0.5
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2.5,
+       "dur": 0.5
+      }
+     ],
+     "id": 34
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "accidental": "sharp",
+       "octave": 1,
+       "position": 3
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1,
+       "technique": "hajiki"
+      }
+     ],
+     "id": 35
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "octave": 1,
+       "position": 3
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 36
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "accidental": "sharp",
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1
+      }
+     ],
+     "id": 37
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 38
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 39
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "position": 2,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        7
+       ],
+       "beat": 2,
+       "dur": 1,
+       "string": 2,
+       "position": 1
+      }
+     ],
+     "id": 40
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        1
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1
+      }
+     ],
+     "id": 41
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        3
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1
+      }
+     ],
+     "id": 42
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "technique": "sukui",
+       "octave": 1
+      }
+     ],
+     "id": 43
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 0.5,
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1.5,
+       "dur": 0.5,
+       "octave": 1,
+       "technique": "sukui"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        5
+       ],
+       "beat": 2,
+       "dur": 0.5,
+       "octave": 1,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1,
+       "accidental": "sharp",
+       "technique": "hajiki"
+      }
+     ],
+     "id": 44
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        7
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 0,
+       "accidental": "sharp"
+      },
+      {
+       "type": "rest",
+       "beat": 2,
+       "dur": 0.5
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        3
+       ],
+       "beat": 2.5,
+       "dur": 0.5,
+       "octave": 1,
+       "accidental": "sharp"
+      }
+     ],
+     "id": 45
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4,
+        5
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      }
+     ],
+     "id": 46
+    },
+    {
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1,
+       "dur": 1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "dur": 1,
+       "degrees": [
+        4,
+        5
+       ],
+       "octave": 1,
+       "accidental": "sharp"
+      }
+     ],
+     "id": 47
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "dur": 1,
+       "degrees": [
+        4,
+        4
+       ],
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "dur": 1,
+       "degrees": [
+        5
+       ],
+       "octave": 1
+      }
+     ],
+     "id": 48
+    },
+    {
+     "events": [
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 1,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      },
+      {
+       "type": "note",
+       "degrees": [
+        4
+       ],
+       "beat": 2,
+       "dur": 1,
+       "octave": 1,
+       "accidental": "sharp"
+      }
+     ],
+     "id": 49
+    }
+   ]
+  }
+ ]
+}

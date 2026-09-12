@@ -1,0 +1,1478 @@
+{
+ "$schema": "kenseikai-score/2.0",
+ "metadata": {
+  "title": "越後獅子",
+  "tuning": "honchoshi",
+  "time_signature": "2/4",
+  "tempo": 80,
+  "source": "研精会譜-18 越後獅子 p.6（デザインキャンバス P6 転記）"
+ },
+ "settings": {
+  "numFont": "Shippori Mincho B1",
+  "lyrFont": "Yuji Syuku",
+  "lyricRatio": 3.5,
+  "page": {
+   "size": "A4",
+   "columns": "auto"
+  }
+ },
+ "parts": [
+  {
+   "name": "本手",
+   "role": "honte",
+   "measures": [
+    {
+     "id": 1,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3,
+       "lyric": {
+        "text": "仕",
+        "ruby": "し",
+        "role": "tate",
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ],
+       "lyric": {
+        "text": "ご",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      }
+     ]
+    },
+    {
+     "id": 2,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "lyric": {
+        "text": "と",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "technique": "sukui"
+      },
+      {
+       "type": "rest",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        2
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "あ",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "さ",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "よ",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "octave": 1,
+       "string": 2,
+       "lyric": {
+        "text": "る",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "string": 2
+      }
+     ]
+    },
+    {
+     "id": 10,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "た",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 1.5
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 2,
+       "position": 2,
+       "lyric": {
+        "text": "び",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2.25,
+       "degrees": [
+        7
+       ],
+       "position": 2
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        6
+       ],
+       "lyric": {
+        "text": "の",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "た",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "string": 2,
+       "lyric": {
+        "text": "の",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "し",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ],
+       "technique": "hajiki"
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "み",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      }
+     ]
+    },
+    {
+     "id": 15,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "lyric": {
+        "text": "を",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        2
+       ],
+       "octave": 1
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "ひ",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 2,
+       "position": 2,
+       "lyric": {
+        "text": "と",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ],
+       "position": 2
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "lyric": {
+        "text": "り",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3,
+       "lyric": {
+        "text": "笑",
+        "ruby": "えみ",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "lyric": {
+        "text": "し",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "lyric": {
+        "text": "て",
+        "ruby": "",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ],
+       "position": 2
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 28,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 32,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 34,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3,
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "lyric": {
+        "text": "来",
+        "ruby": "きた",
+        "role": null,
+        "breath": true
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 40,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "id": 41,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "り",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        7
+       ],
+       "lyric": {
+        "text": "け",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "id": 46,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        6
+       ],
+       "position": 2,
+       "lyric": {
+        "text": "る",
+        "ruby": "",
+        "role": null,
+        "breath": false
+       }
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "events": [
+      {
+       "type": "hold",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 48,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 49,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        2
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ]
+      }
+     ],
+     "texts": [
+      {
+       "text": "(合)",
+       "lane": "lyric",
+       "vertical": true,
+       "size": 12,
+       "dx": 12,
+       "dy": -4
+      },
+      {
+       "text": "拍子東ル上ノ倍間ニ",
+       "lane": "lyric",
+       "vertical": true,
+       "size": 9,
+       "dx": 26,
+       "dy": -4
+      }
+     ]
+    },
+    {
+     "id": 50,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        1
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 51,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        2
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        3
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "technique": "sukui",
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 2.25,
+       "degrees": [
+        3
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        3
+       ],
+       "octave": 1
+      },
+      {
+       "type": "rest",
+       "beat": 2.75
+      }
+     ]
+    },
+    {
+     "id": 52,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 2,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ],
+       "octave": 1
+      }
+     ],
+     "texts": [
+      {
+       "text": "「オトシ」",
+       "lane": "lyric",
+       "vertical": true,
+       "size": 9,
+       "dx": 14,
+       "dy": 10
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        4
+       ],
+       "octave": 1,
+       "string": 2
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ],
+       "octave": 1,
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 2,
+       "position": 2
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        7
+       ],
+       "position": 2
+      },
+      {
+       "type": "rest",
+       "beat": 2.5
+      }
+     ]
+    },
+    {
+     "id": 54,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        6
+       ],
+       "technique": "hajiki"
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "id": 55,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    },
+    {
+     "id": 56,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        2
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        3
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        6
+       ],
+       "position": 2
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        3
+       ],
+       "octave": 1
+      },
+      {
+       "type": "note",
+       "beat": 1.25,
+       "degrees": [
+        1
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.5,
+       "degrees": [
+        7
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 1.75,
+       "degrees": [
+        1
+       ],
+       "octave": 1,
+       "string": 3
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        6
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2.5,
+       "degrees": [
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "id": 58,
+     "events": [
+      {
+       "type": "note",
+       "beat": 1,
+       "degrees": [
+        4
+       ]
+      },
+      {
+       "type": "note",
+       "beat": 2,
+       "degrees": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "id": 59,
+     "events": [
+      {
+       "type": "rest",
+       "beat": 1
+      },
+      {
+       "type": "hold",
+       "beat": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
