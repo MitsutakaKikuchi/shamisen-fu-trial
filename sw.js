@@ -2,7 +2,7 @@
 // ・アプリ本体（index.html）はネット優先、落ちていればキャッシュから
 // ・Google Fonts（CSS とフォント本体）はキャッシュ優先。一度開けば稽古場に Wi-Fi が無くても同じ字面で開く
 // バージョンはビルド時に差し替わる
-const VERSION = 'v3.17c';
+const VERSION = 'v3.17d';
 const APP = 'kensei-app-' + VERSION;
 const FONTS = 'kensei-fonts-v1';
 const APP_FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
